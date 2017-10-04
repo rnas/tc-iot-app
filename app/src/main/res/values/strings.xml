@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Porteiro</string>
+    <string name="authorized">ACESSO AUTORIZADO</string>
 </resources>
